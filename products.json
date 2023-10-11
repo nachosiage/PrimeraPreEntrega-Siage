@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Code #4",
+        "description": "Fiesta electronica",
+        "price": "5000",
+        "thumbnail": "ruta de imagen",
+        "code": 1,
+        "stock": 50
+    },
+    {
+        "title": "Fabula",
+        "description": "Fiesta de fin de año",
+        "price": 5000,
+        "thumbnail": "ruta de imagen",
+        "code": 2,
+        "stock": 40
+    },
+    {
+        "title": "Lola Fest",
+        "description": "Fiesta de navidad",
+        "price": 5000,
+        "thumbnail": "ruta de imagen",
+        "code": 3,
+        "stock": 50
+    }
+]
